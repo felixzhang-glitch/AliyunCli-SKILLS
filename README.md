@@ -1,6 +1,6 @@
 # Aliyun CLI Skill
 
-一个面向 `Codex` / `ChatGPT` agent 的 `aliyun-cli` skill，用于把自然语言请求转换成可审查、可执行的原生 `aliyun` CLI 命令，并按安全流程完成查询、变更、验证和结果汇总。
+一个面向 agent 的 `aliyun-cli` skill，用于把自然语言请求转换成可审查、可执行的原生 `aliyun` CLI 命令，并按安全流程完成查询、变更、验证和结果汇总。
 
 这个 skill 的目标不是“猜命令”，而是：
 
