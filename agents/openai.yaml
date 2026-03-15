@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aliyun CLI"
+  short_description: "按安全流程执行阿里云 CLI 操作并输出清晰结果"
+  default_prompt: "使用 $aliyun-cli 把我的请求转换成原生 aliyun CLI 命令，先查 help，再按安全流程执行，并用清晰的 Markdown 排版输出结果。"
